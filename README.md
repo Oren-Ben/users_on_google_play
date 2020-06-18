@@ -1,2 +1,2 @@
-# users_on_google_play
+# Project on google play App, data pre-processing to evaluation, using maching learning 
 Sentiment analysis on google app store dataset
